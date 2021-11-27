@@ -1,2 +1,2 @@
-# Python Practise Questions Solved
-### Python Practice Questions Solved Here !!!
+# Python Practise
+### Practise problems on Arrays in python.
