@@ -1,1 +1,1 @@
-# Python Practise Questions
+# Python Practise Questions Solved
